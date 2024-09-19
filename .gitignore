@@ -1,0 +1,4 @@
+/node_modules
+/venv
+config.json
+last_posts.json

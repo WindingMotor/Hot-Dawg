@@ -1,0 +1,21 @@
+{
+  "name": "roboticsbot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "axios": "^1.7.7",
+    "cheerio": "^1.0.0",
+    "discord.js": "^14.16.1",
+    "dotenv": "^16.4.5",
+    "google-auth-library": "^9.14.1",
+    "google-spreadsheet": "^4.1.4",
+    "googleapis": "^144.0.0"
+  }
+}
